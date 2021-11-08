@@ -12,7 +12,7 @@ namespace Metodos
             Console.WriteLine(Person.Born());
             //Contar(1, 8);
             //Console.WriteLine(Saludo("Juan"));
-            // num = Sumar();
+            //num = Sumar();
             //Console.WriteLine(num);
         }
         #region NO UTILIZADA
